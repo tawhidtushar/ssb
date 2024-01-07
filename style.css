@@ -1,0 +1,101 @@
+.main{
+	width: 999px;
+	height: 500px;
+	background-color: cyan;
+}
+.row1{
+	width: 998px;
+	height: 100px;
+	background: brown;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	border: 1px solid black;
+}
+.row1:hover {
+	background-color: blue;
+	color: white;
+}
+.row2{
+	width: 998px;
+	height: 40px;
+	color: black;
+	background: cyan;
+	font-size: 25px;
+	text-align: center;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px black solid;
+}
+.row2-col1{
+    width: 199px;
+	height: 40px;
+	color: black;
+	background: red;
+	float: left;
+	border-right: 1px black solid;
+}
+.row2-col2{
+    width: 199px;
+	height: 40px;
+	color: black;
+	background: green;
+	float: left;
+	border-right: 1px black solid;
+}
+.row2-col3{
+    width: 199px;
+	height: 40px;
+	color: black;
+	background: red;
+	float: left;
+	border-right: 1px black solid;
+}
+.row2-col4{
+    width: 199px;
+	height: 40px;
+	color: black;
+	background: yellow;
+	float: left;
+	border-right: 1px black solid;
+}
+.row2-col5{
+    width: 199px;
+	height: 40px;
+	color: black;
+	background: green;
+	float: left;
+	
+}
+.row2-col1:hover{
+	background-color: blue;
+	
+}
+.row2-col2:hover{
+	background-color: blue;
+	
+}
+.row2-col3:hover{
+	background-color: blue;
+	
+}
+.row2-col4:hover{
+	background-color: blue;
+}
+.row2-col5:hover{
+	background-color: blue;
+	
+}
+.row3{
+	width: 998px;
+	height: px;
+
+}
+.row3-col1{
+	float: left;
+	
+
+}
+.row3-col2{
+	float: left;
+}
